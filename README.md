@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Weiqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiqiangYu0528)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiqiangYu0528&size_weight=0.5&count_weight=0.5&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiqiangYu0528&size_weight=0.25&count_weight=0.75&hide=css,html,c,CMake,Makefile,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
