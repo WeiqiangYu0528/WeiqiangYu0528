@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Weiqiang Yu</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 - 🔭 I’m currently working on [MIT 6.5840: Distributed Systems](https://github.com/WeiqiangYu0528/6.5840)
 
